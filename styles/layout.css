@@ -52,7 +52,7 @@ nav a:hover{
 	width:900px;
 	height:100%;
 	border:solid 0px #fff;
-	
+	background-color:#f0f0f0;
 	float:left;
 }
 
@@ -69,6 +69,10 @@ nav a:hover{
 	min-height:500px;
 	padding-left:15px;
 	padding-right:15px;
+}
+
+.sect img{
+	margin:10px;
 }
 
 .break{
